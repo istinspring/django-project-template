@@ -1,0 +1,20 @@
+{
+  "name": "static",
+  "version": "0.0.1",
+  "homepage": "https://github.com/istinspring/django-project-template",
+  "authors": [
+    "istinspring <istinspring@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.3"
+  }
+}

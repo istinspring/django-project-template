@@ -1,0 +1,6 @@
+# CHANGELIST
+
+### 26.01.2014
+* Rebuild default project structure
+* Added Django-rest-framework and Django-suit
+* Added bower to manage front-end dependencies
